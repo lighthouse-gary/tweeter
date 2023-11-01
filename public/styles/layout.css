@@ -15,20 +15,21 @@ html {
  */
 
 body {
-  color: #545149;
-  background-color: #f4f1ec;
+  color: #ffffff;
+  background-color: #ffffff;
   font-size: 24px;
   font-family: 'Source Sans 3', sans-serif;
 }
 
-nav .logo {
+.logo {
   font-family: 'Bungee', sans-serif;
 }
 
 main {
   width: 90%;
   margin: 0 auto;
-  background-color: #f4f1ec;
+  background-color: #ffffff;
+  margin-bottom: 50px;
 }
 
 /*

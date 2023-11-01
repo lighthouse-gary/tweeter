@@ -32,15 +32,19 @@
 .new-tweet button {
   font-family: 'Bungee', sans-serif;
   padding: 10px 20px;
-  background-color: #4CAF50;
+  background-color: #2d38b3;
   color: #fff;
   border: none;
   border-radius: 5px;
   cursor: pointer;
 }
 
-.new-tweet .counter {
+.counter {
   color: #999;
   font-size: 25px;
   font-weight: bold;
+}
+
+.counter-negative {
+  color: red;
 }
